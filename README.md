@@ -1,5 +1,5 @@
 # Introduxtion to Git and Github
->Welcome to git :✅:
+>Welcome to git 😘
 
 |Command List | Importance |
 |-------------|------------|
