@@ -7,4 +7,4 @@
 |_git add_    |**To stage**|
 |_git commit_ |**To commit**|
 
-![Git hub Image](https://git-scm.com/downloads/logos)
+![Git hub Image](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
